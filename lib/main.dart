@@ -94,7 +94,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'Latihan 1 Flutter',
+              'Latihan 2 Flutter ',
             ),
             Text(
               '$_counter',
